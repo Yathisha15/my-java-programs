@@ -24,7 +24,6 @@ public class keypadCombination {
         System.out.println("Enter the number you want to print:");
 
         String str = sc.next();
-
         // String str = "23" ;
         printComb(str,0,"");
     }
